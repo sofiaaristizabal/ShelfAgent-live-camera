@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+requests
+shapely
+python-dotenv
+sqlalchemy
+psycopg2-binary
